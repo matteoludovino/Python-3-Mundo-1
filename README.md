@@ -16,7 +16,7 @@ Durante o curso foram abordados os seguintes temas:
 - Manipulação de Caracteres.
 
 # Screenshots
- <img src="https://imgur.com/CRGFdTV.png"> <img src="https://imgur.com/H9Tr0KX.png">
+ <img src="https://imgur.com/6DnqvjR.png"> <img src="https://imgur.com/H9Tr0KX.png">
  <img src="https://imgur.com/FkWZsYS.png">
 
 # Tech Used
