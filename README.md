@@ -21,7 +21,7 @@ Durante o curso foram abordados os seguintes temas:
 
 # Tech Used
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,py,c" />
+  <img src="https://skillicons.dev/icons?i=py" />
 </a>
       
 # Mais detalhes:
