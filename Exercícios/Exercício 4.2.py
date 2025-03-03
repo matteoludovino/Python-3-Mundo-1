@@ -1,0 +1,2 @@
+n = input("Digite algo: ")
+print("O tipo desse digito é: {} \nÉ um número? {} \nÉ alfabético? {} \nÉ alfanumérico? {} \nSe inicia com letra maiúscula? {} \nEstá maiúsculo? {} \nEstá minúsculo? {} \nSó possui espaços? {}".format(type(n), n.isnumeric(), n.isalpha(), n.isalnum(), n.istitle(), n.isupper(), n.islower(), n.isspace()))
