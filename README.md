@@ -2,7 +2,6 @@
 <h1> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="250px"><br/>Curso de Linguagem Python 3 – Mundo 01</h1>
 </div>
 
-
 # ▸ Descrição
 Exercicios e desafios do Curso Python 1
 
