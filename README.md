@@ -3,10 +3,10 @@
 </div>
 
 
-# Descrição
+# ▸ Descrição
 Exercicios e desafios do Curso Python 1
 
-# Características
+# ▸ Características
 Ministrado por Gustavo Guanabara o curso foi realizado através do site Curso em Vídeo.
 Durante o curso foram abordados os seguintes temas:
 - Conceitos.
@@ -15,16 +15,16 @@ Durante o curso foram abordados os seguintes temas:
 - Módulos.
 - Manipulação de Caracteres.
 
-# Screenshots
+# ▸ Screenshots
  <img src="https://imgur.com/A3DuKcy.png"> <img src="https://imgur.com/jvlHgxz.png">
  <img src="https://imgur.com/6MYRoU6.png">
 
-# Tech Used
+# ▸ Tech Used
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py" />
 </a>
       
-# Mais detalhes:
+# ▸ Mais detalhes:
 100% Aproveitamento
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=curso&message=concluido&color=GREEN&style=for-the-badge)<br>
